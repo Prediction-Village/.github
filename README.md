@@ -13,10 +13,10 @@ A unique, self-playing strategy game built on Solana, featuring two global villa
 🫂**Socials :**
 
 - [X](https://x.com/PredVillage)
-- [Telegram]()
-- [YouTube]()
-- [TikTok]()
-- [Instagram]()
+- [Telegram](https://t.me/prediction_village)
+- [YouTube](https://www.youtube.com/@PredictionVillage)
+- [TikTok](https://www.tiktok.com/@prediction.village)
+- [Instagram](https://www.instagram.com/prediction.village)
 
 ## Gameplay
 
